@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @Arsen28
 - 👀 I’m interested in ReactJs
 - 🌱 I’m currently learning TypeScript
+- 🌱 I’m currently learning MobX
 
 <!---
 Arsen28/Arsen28 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
