@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @Arsen28
 - 👀 I’m interested in ReactJs
-- 🌱 I’m currently learning TypeScript
+- 🌱 I’m interested TypeScript
+- - 🌱 I’m interested JavaScript
 - 🌱 I’m currently learning MobX
 
 <!---
